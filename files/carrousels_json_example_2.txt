@@ -1,0 +1,16 @@
+{
+  "carrousel": [
+    {
+      "title": "Carrusel Test",
+      "keyword": "test_carrusel3"
+    },
+    {
+      "title": "Leche",
+      "keyword": "Leche"
+    },
+    {
+      "title": "Naranja",
+      "keyword": "Naranja"
+    }
+  ]
+}
