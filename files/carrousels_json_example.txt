@@ -1,16 +1,14 @@
-{
-  "carrousel": [
-    {
-      "title": "Carrusel 1",
-      "keyword": "test_carrusel3"
-    },
-    {
-      "title": "Carrusel 2",
-      "keyword": "leche"
-    },
-    {
-      "title": "Carrusel 3",
-      "keyword": "naranja"
-    }
-  ]
-}
+[
+  {
+    "title": "Carrusel 1",
+    "keyword": "test_carrusel3"
+  },
+  {
+    "title": "Carrusel 2",
+    "keyword": "leche"
+  },
+  {
+    "title": "Carrusel 3",
+    "keyword": "naranja"
+  }
+]
